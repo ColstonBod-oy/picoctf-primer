@@ -1,0 +1,17 @@
+openssl x509 -in weak_n_certificate.txt -text -noout
+
+input Modulus: 4966306421059967 to 
+https://www.alpertron.com.ar/ECM.HTM
+
+result: 4966 306421 059967 = 67 867967 x 73 176001
+
+p = 67867967
+q = 73176001
+phi = (67867967 - 1)(73176001 - 1) = 4966306280016000
+
+input Exponent: 65537 for first integer 
+and 4966306280016000 for second integer   
+https://planetcalc.com/3298/
+
+result: Coefficient for bigger integer 
+        d = 17673
