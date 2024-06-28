@@ -19,13 +19,13 @@ you feel would be helpful to include, send a note on Discord or to
 other@picoctf.org and we will consider adding it.
 
 There are various restrictions in place to prevent abuse of the webshell.
-Some resource limits can be checked by typing [0;36musage[0m. Note that all
+Some resource limits can be checked by typing ```usage```. Note that all
 webshell sessions are subject to logging and monitoring, so please do
 not enter any sensitive information. Abuse of the webshell infrastructure
 is grounds for account termination and disqualification.
 
 
-[1m# General shell tips for beginners[0m
+#### \# General shell tips for beginners
 
 
 - Your current directory is displayed in the shell prompt.
