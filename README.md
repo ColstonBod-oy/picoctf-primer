@@ -1,12 +1,12 @@
 
 <h4>Welcome to the picoCTF webshell!</h4>
 
-<h4>Use the arrow keys or spacebar to scroll, or type <code style="color : cyan">q</code> to exit.</h4> 
+<h4>Use the arrow keys or spacebar to scroll, or type <code>q</code> to exit.</h4> 
 
 This is a browser-accessible Linux shell that can be used for solving
 picoCTF challenges.
 
-#FFD700 Note that using the webshell is not necessary for solving challenges.
+Note that using the webshell is not necessary for solving challenges.
 All files and programs are either available for download or accessible
 via remote ports. It is intended primarily for users who do not
 have access to their own local shell environment, such as students using
