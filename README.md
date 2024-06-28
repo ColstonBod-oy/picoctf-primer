@@ -1,7 +1,7 @@
-
+```less
 #### Welcome to the picoCTF webshell!
 
-[1mUse the arrow keys or spacebar to scroll, or type [1;36mq[1;37m to exit.[0m
+#### Use the arrow keys or spacebar to scroll, or type [1;36mq[1;37m to exit.
 
 This is a browser-accessible Linux shell that can be used for solving
 picoCTF challenges.
@@ -100,4 +100,4 @@ is grounds for account termination and disqualification.
   have a newly created home directory the next time you sign into
   the webshell. However, files from your previous username are still
   accessible under [0;36m/home/<old-username>[0m.
-
+```
