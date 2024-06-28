@@ -1,8 +1,7 @@
 
 <h4>Welcome to the picoCTF webshell!</h4>
 
-<h4>Use the arrow keys or spacebar to scroll, or type <font color='#00FFFF'>q</font> to exit.</h4>
-<font color='#00FFFF'>q</font> 
+<h4>Use the arrow keys or spacebar to scroll, or type ```less[0;36musage[0m``` to exit.</h4> 
 
 This is a browser-accessible Linux shell that can be used for solving
 picoCTF challenges.
