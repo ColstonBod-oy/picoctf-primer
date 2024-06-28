@@ -1,5 +1,5 @@
 
-#### Welcome to the picoCTF webshell!
+Welcome to the picoCTF webshell!
 
 [1mUse the arrow keys or spacebar to scroll, or type [1;36mq[1;37m to exit.[0m
 
