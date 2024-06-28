@@ -1,7 +1,7 @@
 
-<h4>Welcome to the picoCTF webshell!</h4>
+#### Welcome to the picoCTF webshell!
 
-<h4>Use the arrow keys or spacebar to scroll, or type <code style="color: #00FFFF;">q</code> to exit.</h4> 
+#### Use the arrow keys or spacebar to scroll, or type ```q``` to exit. 
 
 This is a browser-accessible Linux shell that can be used for solving
 picoCTF challenges.
