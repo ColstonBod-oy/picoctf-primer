@@ -85,7 +85,7 @@ is grounds for account termination and disqualification.
 
 
 \- You can connect to the webshell from multiple tabs / devices, and they
-  will share the same session. However, note that closing *any one*
+  will share the same session. However, note that closing \*any one\*
   of these tabs will end your webshell session on all of them.
 
 \- If you see the message "Killed", a long-running process has been killed
